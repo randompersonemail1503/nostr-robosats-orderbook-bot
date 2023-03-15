@@ -1,1 +1,1 @@
-# nostr-bot-for-robo
+# nostr-bot-for-robosats
